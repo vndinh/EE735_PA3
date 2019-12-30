@@ -1,0 +1,2 @@
+model_checkpoint_path: "sv_model.ckpt"
+all_model_checkpoint_paths: "sv_model.ckpt"
